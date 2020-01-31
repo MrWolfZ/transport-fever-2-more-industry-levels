@@ -10,7 +10,7 @@ function data()
       severityRemove = "WARNING",
       name = _("Name"),
       description = _("Description"),
-      tags = { "Script Mod" },
+      tags = { "Script Mod", "Industry" },
       authors = {
         {
           name = "MrWolfZ",
